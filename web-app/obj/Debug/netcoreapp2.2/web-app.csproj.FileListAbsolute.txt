@@ -12,3 +12,12 @@
 /home/zenius/Desktop/dotnet-core-getting-started/web-app/obj/Debug/netcoreapp2.2/web-app.RazorTargetAssemblyInfo.cache
 /home/zenius/Desktop/dotnet-core-getting-started/web-app/obj/Debug/netcoreapp2.2/web-app.dll
 /home/zenius/Desktop/dotnet-core-getting-started/web-app/obj/Debug/netcoreapp2.2/web-app.pdb
+/home/zenius/Desktop/dotnet-core-getting-started/web-app/bin/Debug/netcoreapp2.2/web-app.Views.dll
+/home/zenius/Desktop/dotnet-core-getting-started/web-app/bin/Debug/netcoreapp2.2/web-app.Views.pdb
+/home/zenius/Desktop/dotnet-core-getting-started/web-app/obj/Debug/netcoreapp2.2/web-app.TagHelpers.input.cache
+/home/zenius/Desktop/dotnet-core-getting-started/web-app/obj/Debug/netcoreapp2.2/web-app.TagHelpers.output.cache
+/home/zenius/Desktop/dotnet-core-getting-started/web-app/obj/Debug/netcoreapp2.2/web-app.RazorCoreGenerate.cache
+/home/zenius/Desktop/dotnet-core-getting-started/web-app/obj/Debug/netcoreapp2.2/Razor/Pages/index.g.cshtml.cs
+/home/zenius/Desktop/dotnet-core-getting-started/web-app/obj/Debug/netcoreapp2.2/web-app.RazorTargetAssemblyInfo.cs
+/home/zenius/Desktop/dotnet-core-getting-started/web-app/obj/Debug/netcoreapp2.2/web-app.Views.pdb
+/home/zenius/Desktop/dotnet-core-getting-started/web-app/obj/Debug/netcoreapp2.2/web-app.csproj.CopyComplete

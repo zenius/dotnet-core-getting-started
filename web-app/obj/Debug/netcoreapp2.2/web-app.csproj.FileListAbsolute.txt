@@ -1,0 +1,14 @@
+/home/zenius/Desktop/dotnet-core-getting-started/web-app/bin/Debug/netcoreapp2.2/web-app.deps.json
+/home/zenius/Desktop/dotnet-core-getting-started/web-app/bin/Debug/netcoreapp2.2/web-app.runtimeconfig.json
+/home/zenius/Desktop/dotnet-core-getting-started/web-app/bin/Debug/netcoreapp2.2/web-app.runtimeconfig.dev.json
+/home/zenius/Desktop/dotnet-core-getting-started/web-app/bin/Debug/netcoreapp2.2/web-app.dll
+/home/zenius/Desktop/dotnet-core-getting-started/web-app/bin/Debug/netcoreapp2.2/web-app.pdb
+/home/zenius/Desktop/dotnet-core-getting-started/web-app/obj/Debug/netcoreapp2.2/web-app.csprojAssemblyReference.cache
+/home/zenius/Desktop/dotnet-core-getting-started/web-app/obj/Debug/netcoreapp2.2/web-app.csproj.CoreCompileInputs.cache
+/home/zenius/Desktop/dotnet-core-getting-started/web-app/obj/Debug/netcoreapp2.2/web-app.RazorAssemblyInfo.cache
+/home/zenius/Desktop/dotnet-core-getting-started/web-app/obj/Debug/netcoreapp2.2/web-app.RazorAssemblyInfo.cs
+/home/zenius/Desktop/dotnet-core-getting-started/web-app/obj/Debug/netcoreapp2.2/web-app.AssemblyInfoInputs.cache
+/home/zenius/Desktop/dotnet-core-getting-started/web-app/obj/Debug/netcoreapp2.2/web-app.AssemblyInfo.cs
+/home/zenius/Desktop/dotnet-core-getting-started/web-app/obj/Debug/netcoreapp2.2/web-app.RazorTargetAssemblyInfo.cache
+/home/zenius/Desktop/dotnet-core-getting-started/web-app/obj/Debug/netcoreapp2.2/web-app.dll
+/home/zenius/Desktop/dotnet-core-getting-started/web-app/obj/Debug/netcoreapp2.2/web-app.pdb
